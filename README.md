@@ -1,5 +1,5 @@
 # Re-wear-
- Problem Statement - ReWear – Community Clothing Exchange
+ Problem Statement - StackIt (Q&A Forum)
 
 Team Name : Team Olympians
 contact email : ajaykrishnad2006@gmail.com
