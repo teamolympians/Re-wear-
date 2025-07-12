@@ -1,5 +1,5 @@
 # Re-wear-
- Problem Statement - StackIt (Q&A Forum)
+ Problem Statement -  Skill Swap Platform
 
 Team Name : Team Olympians
 contact email : ajaykrishnad2006@gmail.com
